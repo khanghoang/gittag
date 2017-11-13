@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "Promise": true,
+    "Mongoose": true,
+    "Tag": true,
+    "Repo": true,
+    "User": true,
+  }
+}
