@@ -1,6 +1,9 @@
 {
   "name": "github-tagger",
   "private": true,
+  "scripts": {
+    "dev": "gulp watch"
+  },
   "engines": {
     "node": ">=0.8.0"
   },
