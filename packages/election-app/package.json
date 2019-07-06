@@ -16,7 +16,7 @@
     "jest": "20",
     "menubar": "^5.2.3",
     "prettier": "^1.5.3",
-    "react-hot-loader": "next",
+    "react-hot-loader": "^4.5.3",
     "redux-mock-store": "^1.2.3"
   },
   "scripts": {
@@ -26,11 +26,12 @@
   },
   "dependencies": {
     "@khanghoang/redux-modal": "^0.0.10",
+    "electron-auth": "^0.0.2",
     "electron-compile": "^6.4.1",
     "electron-open-link-in-browser": "^1.0.2",
     "fuzzy": "^0.1.3",
     "lodash": "^4.17.4",
-    "material-ui": "next",
+    "material-ui": "^1.0.0-beta.47",
     "material-ui-icons": "^1.0.0-beta.5",
     "node-fetch": "^1.7.2",
     "react": "15",
